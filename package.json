@@ -3,13 +3,13 @@
 	"types": ["pack"],
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-safekit",
-	"author": "Jean Gabes",
+	"author": "Forlot Romain",
 	"description": "Evidian Safekit cluster solution monitoring",
 	"contributors": [
-	  {
-		"name": "Jean Gabes",
-		"email": "naparuba@gmail.com"
-	  },
+          {
+                "name": "Forlot Romain",
+                "email": "rforlot@yahoo.com"
+          },
 	  {
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
@@ -18,7 +18,9 @@
 	"repository": "https://github.com/shinken-monitoring/pack-safekit",
 	"keywords": [
 	  "pack",
-	  
+	  "evidian",
+	  "safekit",
+	  "cluster"	  
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
